@@ -14,13 +14,6 @@ The repository progresses from beginner concepts like variables and loops to mor
 
 ## 🔹 Level 1 — Python Basics & Data Types
 
-Topics:
-- Variables
-- Strings
-- Numbers
-- Booleans
-- Input / Output
-
 Includes exercises like:
 - String reversing
 - Number conversion
@@ -30,12 +23,6 @@ Includes exercises like:
 ---
 
 ## 🔹 Level 2 — Control Flow & Loops
-
-Topics:
-- If / Else
-- Loops
-- Conditions
-- Logical Operators
 
 Includes exercises like:
 - Password checker
@@ -48,12 +35,6 @@ Includes exercises like:
 
 ## 🔹 Level 3 — Lists, Tuples & Dictionaries
 
-Topics:
-- Lists
-- Dictionaries
-- Iteration
-- Data manipulation
-
 Includes exercises like:
 - HTTP status dictionaries
 - Port/service mapping
@@ -64,12 +45,6 @@ Includes exercises like:
 ---
 
 ## 🔹 Level 4 — Functions & Modules
-
-Topics:
-- Functions
-- Modules
-- Return values
-- Python libraries
 
 Includes exercises like:
 - Password strength checker
